@@ -21,8 +21,9 @@
 > 
 > - Entramiento con 40,000 datos.
 > 
-> - Validación y Prueba con 5,000 datos cada uno. 
+> - Validación y Prueba con 5,000 datos cada uno.
 
+> -------------------
 
 > - This is a computer vision project using torch.cude to manually accelerate the training loop. It propose to classify 10 different types of images with a 32x32 pixels shape in RGB scale.
 > 
